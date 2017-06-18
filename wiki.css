@@ -1,0 +1,26 @@
+body{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  background-image: url("http://wallpapercave.com/wp/8jrntKh.jpg");
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+
+#searchIn{
+  margin:auto;
+  width:350px;
+  border-radius:15px;
+
+}
+#search{
+  margin-top:10px
+}
+li {
+  color:white;
+  border-style:solid;
+  border-color:black;
+  border-radius:15px;
+  background-color:black;
+  border-width:2px 2px 2px 2px;
+  margin:10px;
+  box-shadow: 5px 5px 5px gray;
+}
